@@ -1,0 +1,172 @@
+{
+    "passingGrade": 65,
+    "randomize": false,
+    "canRetake": true,
+    "questions": [
+        {
+            "type": "truth",
+            "points": 4,
+            "title": "Adevărat sau fals?",
+            "body": "În situația în care veniturile sunt mai mari decât cheltuielile, avem de-a face cu un buget excedentar.",
+            "correct": true
+        },
+        {
+            "type": "truth",
+            "points": 4,
+            "title": "Adevărat sau fals?",
+            "body": "Pâinea este un exemplu de produs pe care consumatorul îl poate cumpăra.",
+            "correct": true
+        },
+        {
+            "type": "truth",
+            "points": 4,
+            "title": "Adevărat sau fals?",
+            "body": "Păstrarea numerarului „la saltea” este cea mai bună metodă de economisire.",
+            "correct": false
+        },
+        {
+            "type": "truth",
+            "points": 4,
+            "title": "Adevărat sau fals?",
+            "body": "Banca reprezintă un loc sigur și accesibil unde să îți păstrezi banii.",
+            "correct": true
+        },
+        {
+            "type": "truth",
+            "points": 4,
+            "title": "Adevărat sau fals?",
+            "body": "Odată ce un buget este întocmit nu mai este nevoie de ajustări.",
+            "correct": false
+        },
+        {
+            "type": "truth",
+            "points": 4,
+            "title": "Adevărat sau fals?",
+            "body": "Consumatorul are obligația de a cere bonul fiscal atunci când face o achiziție.",
+            "correct": true
+        },
+        {
+            "type": "truth",
+            "points": 4,
+            "title": "Adevărat sau fals?",
+            "body": "Serviciile de Internet banking și mobile banking permit accesarea conturilor și oferă posibilitatea efectuării operațiunilor prin intermediul paginii web a instituției financiare de pe calculator, laptop, tabletă sau telefon.",
+            "correct": true
+        },
+        {
+            "type": "truth",
+            "points": 4,
+            "title": "Adevărat sau fals?",
+            "body": "În România sunt recunoscute legal următoarele instrumente de plată: trocul, cardul, mobile banking.",
+            "correct": false
+        },
+        {
+            "type": "truth",
+            "points": 4,
+            "title": "Adevărat sau fals?",
+            "body": "Instituțiile financiare nebancare sunt complementare băncilor.",
+            "correct": true
+        },
+        {
+            "type": "choice",
+            "points": 6,
+            "title": "Serviciile sunt:",
+            "variants": [
+                "Joburile oamenilor",
+                "Activități oferite de alte persoane prin care îți satisfaci o nevoie",
+                "Bunurile și activitățile oferite de antreprenori"
+            ],
+            "correct": 1
+        },
+        {
+            "type": "choice",
+            "points": 6,
+            "title": "Consumatorii au dreptul",
+            "variants": [
+                "De a fi protejați",
+                "De a cumpăra pe datorie",
+                "De a cere bonul fiscal"
+            ],
+            "correct": 0
+        },
+        {
+            "type": "choice",
+            "points": 6,
+            "title": "Un buget deficitar indică faptul că:",
+            "variants": [
+                "Veniturile sunt mai mari decât cheltuielile",
+                "Veniturile sunt egale cu cheltuielile",
+                "Veniturile sunt mai mici decât cheltuielile"
+            ],
+            "correct": 2
+        },
+        {
+            "type": "choice",
+            "points": 6,
+            "title": "Creditul bancar poate fi:",
+            "variants": [
+                "De consum sau nevoi personale",
+                "Un împrumut",
+                "Accesat de către oricine"
+            ],
+            "correct": 0
+        },
+        {
+            "type": "multichoice",
+            "points": 6,
+            "title": "Două dintre situațiile în care bugetul necesită să fie ajustat într-o firmă sunt:",
+            "variants": [
+                "Modificarea prețului de vânzare",
+                "Majorarea cheltuielilor",
+                "Atunci când antreprenorul dispune de timpul necesar"
+            ],
+            "correct": [
+                0,
+                1
+            ]
+        },
+        {
+            "type": "choice",
+            "points": 6,
+            "title": "Fluxul de numerar reprezintă:",
+            "variants": [
+                "Economiile unei afaceri",
+                "Diferența dintre veniturile și cheltuielile firmei.",
+                "Diferența dintre intrările (incasări) si ieșirile de numerar (plățile) a unei afaceri."
+            ],
+            "correct": 2
+        },
+        {
+            "type": "choice",
+            "points": 6,
+            "title": "Una dintre modalitățile prin care diminuezi riscurile în relația cu banca este:",
+            "variants": [
+                "Încheierea unui contract de asigurare",
+                "Ipotecarea unor bunuri",
+                "Negocierea contractului cu banca"
+            ],
+            "correct": 0
+        },
+        {
+            "type": "choice",
+            "points": 6,
+            "title": "Contul de economii se diferențează de depozitul bancare prin:",
+            "variants": [
+                "Comisioane (de analiză a dosarului; de administrare credit)",
+                "Posibilitatea de a depune/ retrage bani fără a fi afectată dobânda",
+                "Între cele două nu există nici o diferență."
+            ],
+            "correct": 1
+        },
+        {
+            "type": "choice",
+            "points": 6,
+            "title": "Scopul investițiilor este de a:",
+            "variants": [
+                "Păstra banii la loc sigur",
+                "Înmulți banii de care dispui",
+                "De a iniția afaceri"
+            ],
+            "correct": 1
+        }
+    ]
+}
